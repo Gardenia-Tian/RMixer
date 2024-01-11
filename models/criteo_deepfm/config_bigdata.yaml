@@ -1,0 +1,26 @@
+runner:
+  model_name: "criteo_deepfm"
+  train_data_dir: "../../datasets/criteo/slot_train_data_full"
+  train_reader_path: "criteo_reader" # importlib format
+  use_gpu: True
+  use_auc: False
+  train_batch_size: 512
+  epochs: 1
+  print_interval: 1000
+  #model_init_path: "output_model/0" # init model
+  model_save_path: "output_model_all_deepfm"
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  # optimizer config
+  optimizer:
+    class: Adam
+    learning_rate: 0.001
+    strategy: async
+  # user-defined <key, value> pairs
+  sparse_inputs_slots: 27
+  sparse_feature_number: 1000001
+  sparse_feature_dim: 9
+  dense_input_dim: 13
+  fc_sizes: [400, 400, 400]
+  distributed_embedding: 0

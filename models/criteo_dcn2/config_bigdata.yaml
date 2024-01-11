@@ -1,0 +1,41 @@
+runner:
+  model_name: "criteo_dcn2"
+  # train_data_dir: "../../datasets/criteo_dcn_v2/slot_train_data_full"
+  train_data_dir: "../../datasets/criteo/slot_train_data_full"
+  train_reader_path: "reader" # importlib format
+  use_gpu: True
+  use_auc: True
+  train_batch_size: 512
+  epochs: 1
+  print_interval: 1000
+  #model_init_path: "output_model/0" # init model
+  model_save_path: "output_model_dcn_v2_all"
+
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  # optimizer config
+  optimizer:
+    class: Adam
+    learning_rate: 0.0001 # 0.0001
+    strategy: async
+  # user-defined <key, value> pairs
+  sparse_inputs_slots: 27
+  sparse_feature_number: 1100001  #1000001
+  sparse_feature_dim: 40 # 10  40
+  dense_input_dim: 13
+  is_Stacked: True
+  use_low_rank_mixture: True # False  True
+  low_rank:  256 #32
+  num_experts: 4 
+  fc_sizes: [768, 768] # [768, 768]  [500, 500, 500]
+  distributed_embedding: 0
+
+# sparse_inputs_slots + dense_input_dim
+
+  cross_num: 2 #3 4
+  l2_reg_cross: 0.00003
+  dnn_use_bn: False
+  clip_by_norm: 10.0
+  
+  

@@ -1,0 +1,46 @@
+# global settings
+
+runner:
+  model_name: "alidisplay_dmr"
+  train_data_dir: "../../datasets/alidisplay/big_train"
+  train_reader_path: "alimama_reader" # importlib format
+  use_gpu: True
+  use_auc: True
+  train_batch_size: 512
+  epochs: 1
+  print_interval: 1000
+  model_save_path: "output_model_all_dmr"
+
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  # optimizer config
+  optimizer:
+    class: Adam
+    learning_rate: 0.008
+  # user-defined <key, value> pairs
+  # user feature size
+  user_size: 1141730
+  cms_segid_size: 97
+  cms_group_id_size: 13
+  final_gender_code_size: 3
+  age_level_size: 7
+  pvalue_level_size: 4
+  shopping_level_size: 4
+  occupation_size: 3
+  new_user_class_level_size: 5
+
+  # item feature size
+  adgroup_id_size: 846812
+  cate_size: 12978
+  campaign_id_size: 423437
+  customer_size: 255876
+  brand_size: 461529
+
+  # context feature size
+  btag_size: 5
+  pid_size: 2
+
+  # embedding size
+  main_embedding_size: 32
+  other_embedding_size: 8

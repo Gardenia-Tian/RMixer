@@ -1,0 +1,415 @@
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:18, frontend, start
+TIMESTAMP, 20:31:19, schedule, start
+TIMESTAMP, 20:31:19, schedule, load_model
+TIMESTAMP, 20:31:37, tcp, connected
+TIMESTAMP, 20:31:37, tcp, connected
+TIMESTAMP, 20:31:37, tcp, connected
+TIMESTAMP, 20:31:37, schedule, get_request
+TIMESTAMP, 20:31:37, schedule, get_request
+TIMESTAMP, 20:31:37, tcp, connected
+TIMESTAMP, 20:31:37, schedule, get_request
+TIMESTAMP, 20:31:37, schedule, get_request
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, tcp, connected
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:38, schedule, get_request
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, tcp, connected
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, schedule, get_request
+TIMESTAMP, 20:31:39, device: gpu: 0 , max_worker:  4
+TIMESTAMP, 20:31:39, device: cpu: 0 , max_worker:  2
+TIMESTAMP, 20:31:39, schedule, threshold : 0.67  beta :   4
+TIMESTAMP, 20:31:39, schedule, device: gpu: 0  tasknum:   1
+TIMESTAMP, 20:31:39, schedule, device: gpu: 0  tasknum:   2
+TIMESTAMP, 20:31:39, schedule, device: gpu: 0  tasknum:   3
+TIMESTAMP, 20:31:39, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:31:39, schedule, device: cpu: 0  tasknum:   1
+W0105 20:31:40.553464  3553 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:31:40.554688  3551 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:31:40.555133  3555 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:31:40.555402  3553 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+W0105 20:31:40.556484  3551 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+W0105 20:31:40.556984  3555 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+W0105 20:31:40.557219  3557 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:31:40.559013  3557 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:40, worker 3561      cpu:0, import models  criteo_deepfm 6
+TIMESTAMP, 20:33:07, worker 3561      cpu:0, complete  criteo_deepfm   6   time     87.43
+TIMESTAMP, 20:31:39, schedule, device: cpu: 0  tasknum:   2
+TIMESTAMP, 20:33:07, device: cpu: 0, has finished:   1, latest finish_model 6 -criteo_deepfm   
+TIMESTAMP, 20:33:07, schedule, all finished:   1
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:40, worker 3559      cpu:0, import models  criteo_deepfm 20
+TIMESTAMP, 20:33:08, worker 3559      cpu:0, complete  criteo_deepfm   20  time     87.90
+TIMESTAMP, 20:33:07, schedule, device: cpu: 0  tasknum:   2
+TIMESTAMP, 20:33:08, device: cpu: 0, has finished:   2, latest finish_model 20-criteo_deepfm   
+TIMESTAMP, 20:33:08, schedule, all finished:   2
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:42, worker 3551      gpu:0, import models  amazon_dien 1
+TIMESTAMP, 20:33:32, worker 3551      gpu:0, complete  amazon_dien     1   time    112.25
+TIMESTAMP, 20:33:08, schedule, device: cpu: 0  tasknum:   2
+TIMESTAMP, 20:33:32, device: gpu: 0, has finished:   1, latest finish_model 1 -amazon_dien     
+TIMESTAMP, 20:33:32, schedule, all finished:   3
+TIMESTAMP, 20:33:32, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:33:34, device: gpu: 0, has finished:   2, latest finish_model 17-amazon_dien     
+TIMESTAMP, 20:33:34, schedule, all finished:   4
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:42, worker 3555      gpu:0, import models  amazon_dien 17
+TIMESTAMP, 20:33:34, worker 3555      gpu:0, complete  amazon_dien     17  time    113.53
+W0105 20:33:34.273903  4310 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:33:34.275851  4310 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+W0105 20:33:35.670995  4324 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:33:35.672972  4324 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:42, worker 3553      gpu:0, import models  criteo_difm 5
+TIMESTAMP, 20:34:20, worker 3553      gpu:0, complete  criteo_difm     5   time    160.09
+TIMESTAMP, 20:33:34, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:34:20, device: gpu: 0, has finished:   3, latest finish_model 5 -criteo_difm     
+TIMESTAMP, 20:34:20, schedule, all finished:   5
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:31:42, worker 3557      gpu:0, import models  criteo_difm 9
+TIMESTAMP, 20:34:20, worker 3557      gpu:0, complete  criteo_difm     9   time    160.21
+TIMESTAMP, 20:34:20, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:34:20, device: gpu: 0, has finished:   4, latest finish_model 9 -criteo_difm     
+TIMESTAMP, 20:34:20, schedule, all finished:   6
+W0105 20:34:22.167533  4572 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:34:22.170362  4572 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+W0105 20:34:22.307714  4574 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:34:22.309789  4574 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:33:09, worker 4137      cpu:0, import models  criteo_deepfm 4
+TIMESTAMP, 20:34:36, worker 4137      cpu:0, complete  criteo_deepfm   4   time     87.27
+TIMESTAMP, 20:34:20, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:34:36, device: cpu: 0, has finished:   3, latest finish_model 4 -criteo_deepfm   
+TIMESTAMP, 20:34:36, schedule, all finished:   7
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:33:36, worker 4310      gpu:0, import models  amazon_dien 22
+TIMESTAMP, 20:35:27, worker 4310      gpu:0, complete  amazon_dien     22  time    112.75
+TIMESTAMP, 20:34:36, schedule, device: cpu: 0  tasknum:   2
+TIMESTAMP, 20:35:27, device: gpu: 0, has finished:   5, latest finish_model 22-amazon_dien     
+TIMESTAMP, 20:35:27, schedule, all finished:   8
+W0105 20:35:28.491384  4974 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:35:28.493322  4974 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:33:37, worker 4324      gpu:0, import models  amazon_dien 21
+TIMESTAMP, 20:35:29, worker 4324      gpu:0, complete  amazon_dien     21  time    113.51
+TIMESTAMP, 20:35:27, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:35:29, device: gpu: 0, has finished:   6, latest finish_model 21-amazon_dien     
+TIMESTAMP, 20:35:29, schedule, all finished:   9
+W0105 20:35:30.655532  4994 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:35:30.657560  4994 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:33:10, worker 4143      cpu:0, import models  amazon_din 16
+TIMESTAMP, 20:35:33, worker 4143      cpu:0, complete  amazon_din      16  time    143.98
+Epoch 0: PiecewiseDecay set learning rate to 0.001.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:35:30, worker 4974      gpu:0, import models  amazon_bst 10
+TIMESTAMP, 20:36:30, worker 4974      gpu:0, complete  amazon_bst      10  time     62.06
+TIMESTAMP, 20:35:29, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:35:33, device: cpu: 0, has finished:   4, latest finish_model 16-amazon_din      
+TIMESTAMP, 20:35:33, schedule, all finished:  10
+TIMESTAMP, 20:36:30, device: gpu: 0, has finished:   7, latest finish_model 10-amazon_bst      
+TIMESTAMP, 20:36:30, schedule, all finished:  11
+W0105 20:36:32.049027  5177 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:36:32.050985  5177 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+TIMESTAMP, 20:36:30, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:36:32, device: gpu: 0, has finished:   8, latest finish_model 15-amazon_bst      
+TIMESTAMP, 20:36:32, schedule, all finished:  12
+Epoch 0: PiecewiseDecay set learning rate to 0.001.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:35:32, worker 4994      gpu:0, import models  amazon_bst 15
+TIMESTAMP, 20:36:32, worker 4994      gpu:0, complete  amazon_bst      15  time     61.48
+W0105 20:36:33.567792  5197 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:36:33.569839  5197 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:34:38, worker 4628      cpu:0, import models  amazon_din 11
+TIMESTAMP, 20:36:59, worker 4628      cpu:0, complete  amazon_din      11  time    141.40
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:34:23, worker 4572      gpu:0, import models  criteo_difm 13
+TIMESTAMP, 20:37:05, worker 4572      gpu:0, complete  criteo_difm     13  time    163.22
+TIMESTAMP, 20:36:32, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:36:59, device: cpu: 0, has finished:   5, latest finish_model 11-amazon_din      
+TIMESTAMP, 20:36:59, schedule, all finished:  13
+TIMESTAMP, 20:37:05, device: gpu: 0, has finished:   9, latest finish_model 13-criteo_difm     
+TIMESTAMP, 20:37:05, schedule, all finished:  14
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:34:23, worker 4574      gpu:0, import models  criteo_difm 18
+TIMESTAMP, 20:37:06, worker 4574      gpu:0, complete  criteo_difm     18  time    163.85
+W0105 20:37:06.977854  5376 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:37:06.979952  5376 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+TIMESTAMP, 20:37:05, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:37:06, device: gpu: 0, has finished:  10, latest finish_model 18-criteo_difm     
+TIMESTAMP, 20:37:06, schedule, all finished:  15
+W0105 20:37:08.701246  5394 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:37:08.703253  5394 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:36:35, worker 5197      gpu:0, import models  criteo_dcn 7
+TIMESTAMP, 20:37:22, worker 5197      gpu:0, complete  criteo_dcn      7   time     48.64
+TIMESTAMP, 20:37:07, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:37:22, device: gpu: 0, has finished:  11, latest finish_model 7 -criteo_dcn      
+TIMESTAMP, 20:37:22, schedule, all finished:  16
+W0105 20:37:23.659287  6477 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:37:23.662045  6477 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+Epoch 0: PiecewiseDecay set learning rate to 0.001.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:36:34, worker 5177      gpu:0, import models  amazon_bst 24
+TIMESTAMP, 20:37:30, worker 5177      gpu:0, complete  amazon_bst      24  time     58.07
+TIMESTAMP, 20:37:22, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:37:30, device: gpu: 0, has finished:  12, latest finish_model 24-amazon_bst      
+TIMESTAMP, 20:37:30, schedule, all finished:  17
+W0105 20:37:31.567271  7281 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:37:31.569298  7281 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:37:10, worker 5394      gpu:0, import models  beauty_bert4rec 3
+TIMESTAMP, 20:37:37, worker 5394      gpu:0, complete  beauty_bert4rec 3   time     28.34
+TIMESTAMP, 20:37:30, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:37:37, device: gpu: 0, has finished:  13, latest finish_model 3 -beauty_bert4rec 
+TIMESTAMP, 20:37:37, schedule, all finished:  18
+W0105 20:37:40.121464  8052 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:37:40.123405  8052 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:37:08, worker 5376      gpu:0, import models  criteo_dcn 14
+TIMESTAMP, 20:37:52, worker 5376      gpu:0, complete  criteo_dcn      14  time     45.68
+TIMESTAMP, 20:37:38, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:37:52, device: gpu: 0, has finished:  14, latest finish_model 14-criteo_dcn      
+TIMESTAMP, 20:37:52, schedule, all finished:  19
+W0105 20:37:54.084146  8238 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:37:54.086108  8238 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:37:25, worker 6477      gpu:0, import models  criteo_dcn 23
+TIMESTAMP, 20:38:07, worker 6477      gpu:0, complete  criteo_dcn      23  time     43.93
+TIMESTAMP, 20:37:52, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:38:07, device: gpu: 0, has finished:  15, latest finish_model 23-criteo_dcn      
+TIMESTAMP, 20:38:07, schedule, all finished:  20
+W0105 20:38:09.030983  8267 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 12.2, Runtime API Version: 10.2
+W0105 20:38:09.033002  8267 gpu_resources.cc:91] device: 0, cuDNN Version: 8.1.
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:37:33, worker 7281      gpu:0, import models  criteo_widedeep 12
+TIMESTAMP, 20:38:14, worker 7281      gpu:0, complete  criteo_widedeep 12  time     42.83
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:37:41, worker 8052      gpu:0, import models  kdd_dpin 8
+TIMESTAMP, 20:38:34, worker 8052      gpu:0, complete  kdd_dpin        8   time     54.38
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:37:55, worker 8238      gpu:0, import models  amazon_din 2
+TIMESTAMP, 20:38:52, worker 8238      gpu:0, complete  amazon_din      2   time     58.58
+TIMESTAMP, 20:38:07, schedule, device: gpu: 0  tasknum:   4
+TIMESTAMP, 20:38:14, device: gpu: 0, has finished:  16, latest finish_model 12-criteo_widedeep 
+TIMESTAMP, 20:38:14, schedule, all finished:  21
+TIMESTAMP, 20:38:34, device: gpu: 0, has finished:  17, latest finish_model 8 -kdd_dpin        
+TIMESTAMP, 20:38:34, schedule, all finished:  22
+TIMESTAMP, 20:38:52, device: gpu: 0, has finished:  18, latest finish_model 2 -amazon_din      
+TIMESTAMP, 20:38:52, schedule, all finished:  23
+TIMESTAMP, 20:39:31, device: gpu: 0, has finished:  19, latest finish_model 19-alidisplay_dmr  
+TIMESTAMP, 20:39:31, schedule, all finished:  24
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:121: DeprecationWarning: pkg_resources is deprecated as an API
+  warnings.warn("pkg_resources is deprecated as an API", DeprecationWarning)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/tianrui/software/install/anaconda3/envs/pp/lib/python3.8/site-packages/pkg_resources/__init__.py:2870: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+TIMESTAMP, 20:38:10, worker 8267      gpu:0, import models  alidisplay_dmr 19
+TIMESTAMP, 20:39:31, worker 8267      gpu:0, complete  alidisplay_dmr  19  time     82.54

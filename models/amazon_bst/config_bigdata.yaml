@@ -1,0 +1,44 @@
+runner:
+  model_name: "amazon_bst"
+  train_data_dir: "../../datasets/amazonelec/train"
+  train_reader_path: "amazon_reader" # importlib format
+  use_gpu: True
+  use_auc: True
+  train_batch_size: 64
+  epochs: 1
+  print_interval: 1000
+  #model_init_path: "output_model/0" # init model
+  model_save_path: "output_model_bst_all"
+
+
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  # optimizer config
+  optimizer:
+    class: SGD
+    learning_rate: 0.0001
+  # user-defined <key, value> pairs
+  distributed_embedding: 0
+  use_DataLoader: True
+  item_emb_size: 96
+  cat_emb_size: 96
+  position_emb_size: 96
+  is_sparse: True
+  item_count: 63001
+  user_count: 192403
+  cat_count: 801
+  position_count: 5001
+  n_encoder_layers: 1
+  d_model: 288
+  d_key: 48
+  d_value: 48
+  n_head: 6
+  dropout_rate: 0.2
+  postprocess_cmd: "da"
+  preprocess_cmd: "n"
+  prepostprocess_dropout: 0.2
+  d_inner_hid: 512
+  relu_dropout: 0.2
+  act: "relu"
+  fc_sizes: [1024, 512, 256]

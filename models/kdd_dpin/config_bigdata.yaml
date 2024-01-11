@@ -1,0 +1,26 @@
+runner:
+  model_name: "kdd_dpin"
+  train_data_dir: "../../datasets/kdd/train"
+  train_reader_path: "dpin_reader" # importlib format
+  use_gpu: True
+  use_auc: True
+  train_batch_size: 512
+  epochs: 1
+  print_interval: 1000
+  #model_init_path: "output_model_all_dpin/0" # init model
+  model_save_path: "output_model_all_dpin"
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  is_sparse: True
+  embedding_dim: 8 # Embedding dimension
+  K: 3 # the number of position
+  L: 10
+  max_item: 455565
+  max_context: 14616
+  d_model: 64
+  h: 2
+  optimizer:
+    class: sgd
+    learning_rate: 0.05
+    strategy: async

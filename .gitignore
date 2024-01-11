@@ -1,0 +1,10 @@
+*.zip
+*.csv
+*.txt
+beauty*
+*.tar.gz
+part*
+__pycache__
+__pycache__/*
+*.pyc
+Dockerfile

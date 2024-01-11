@@ -1,0 +1,28 @@
+runner:
+  model_name: "criteo_dlrm"
+  train_data_dir: "../../datasets/criteo/slot_train_data_full"
+  train_reader_path: "criteo_reader" # importlib format
+  use_gpu: True
+  use_auc: True
+  train_batch_size: 256
+  epochs: 1
+  print_interval: 1000
+  model_save_path: "output_model_dlrm_all"
+
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  # optimizer config
+  optimizer:
+    class: SGD
+    learning_rate: 0.1
+    strategy: async
+  # user-defined <key, value> pairs
+  sparse_inputs_slots: 27
+
+  dense_input_dim: 13
+  bot_layer_sizes: [512, 256, 64, 16]
+  sparse_feature_number: 1000001
+  sparse_feature_dim: 16
+  top_layer_sizes: [512, 256, 2]
+  num_field: 26

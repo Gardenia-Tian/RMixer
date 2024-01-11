@@ -1,0 +1,31 @@
+runner:
+  model_name: "criteo_widedeep"
+  train_data_dir: "data/sample_data/train"
+  test_data_dir: "data/sample_data/train"
+  train_reader_path: "criteo_reader" # importlib format
+  infer_reader_path: "criteo_reader" # importlib format
+  use_gpu: False
+  # use_cpu: False
+  use_auc: True
+  train_batch_size: 50
+  epochs: 100
+  print_interval: 2
+  # model_init_path: "models/rank/wide_deep/output_model_wide_deep/2" # init model
+  model_save_path: "output_model_wide_deep"
+  infer_load_path: "output_model_wide_deep"
+  
+
+# hyper parameters of user-defined network
+hyper_parameters:
+  # optimizer config
+  optimizer:
+    class: Adam
+    learning_rate: 0.001
+    strategy: async
+  # user-defined <key, value> pairs
+  sparse_inputs_slots: 27
+  sparse_feature_number: 1000001
+  sparse_feature_dim: 9
+  dense_input_dim: 13
+  fc_sizes: [512, 256, 128, 32]
+  distributed_embedding: 0
